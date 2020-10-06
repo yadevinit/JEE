@@ -7,3 +7,4 @@ Following are the ReadMe pages for the erstwhile "projects" in the order in whic
 - [JEEinsight](./JEEinsight/README.md)
 - [JEEknee](./JEEknee/README.md)
 - [JEEenlighten](./JEEenlighten/README.md)
+- [JEEavg2max](./JEEavg2max/README.md)
