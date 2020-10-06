@@ -1,0 +1,66 @@
+subject,topicJEEMain,topicGrp
+maths,"Unit1: sets, relations and functions",mOther
+maths,Unit2: complex numbers and quadratic equations,mOther
+maths,Unit3: matrices and determinants,mOther
+maths,Unit4: permutations and combinations,mOther
+maths,Unit5: mathematical induction,mOther
+maths,Unit6: binomial theorem and its simple applications,mOther
+maths,Unit7: sequences and series,mOther
+maths,"Unit8: limit, continuity and differentiability",mCalculus
+maths,Unit9: integral calculus,mCalculus
+maths,Unit10: differential equations,mCalculus
+maths,Unit11: co-ordinate geometry,mGeometry
+maths,Unit12: three dimensional geometry,mGeometry
+maths,Unit13: vector algebra,mGeometry
+maths,Unit14: statistics and probability,mOther
+maths,Unit15: trigonometry,mOther
+maths,Unit16: mathematical reasoning,mOther
+physics,A-Unit1: physics and measurement,pOther
+physics,A-Unit2: kinematics,pMechanics
+physics,A-Unit3: laws of motion,pMechanics
+physics,"A-Unit4: work, energy and power",pMechanics
+physics,A-Unit5: rotational motion,pMechanics
+physics,A-Unit6: gravitation,pMechanics
+physics,A-Unit7: properties of solids and liquids,pOther
+physics,A-Unit8: thermodynamics,pOther
+physics,A-Unit9: kinetic theory of gases,pOther
+physics,A-Unit10: oscillations and waves,pOther
+physics,A-Unit11: electrostatics,pElectrodynamics
+physics,A-Unit12: current electricity,pElectrodynamics
+physics,A-Unit13: magnetic effects of current and magnetism,pElectrodynamics
+physics,A-Unit14: electromagnetic induction and alternating currents,pElectrodynamics
+physics,A-Unit15: electromagnetic waves,pElectrodynamics
+physics,A-Unit16: optics,pOther
+physics,A-Unit17: dual nature of matter and radiation,pOther
+physics,A-Unit18: atoms and nuclei,pOther
+physics,A-Unit19: electronic devices,pOther
+physics,A-Unit20: communication systems,pOther
+physics,B-Unit21: experimental skills,pOther
+chemistry,A-Physical Chemistry-Unit1: some basic concepts in chemistry,cA-P
+chemistry,A-Physical Chemistry-Unit2: states of matter,cA-P
+chemistry,A-Physical Chemistry-Unit3: atomic structure,cA-P
+chemistry,A-Physical Chemistry-Unit4: chemical bonding and molecular structure,cA-P
+chemistry,A-Physical Chemistry-Unit5: chemical thermodynamics,cA-P
+chemistry,A-Physical Chemistry-Unit6: solutions,cA-P
+chemistry,A-Physical Chemistry-Unit7: equilibrium,cA-P
+chemistry,A-Physical Chemistry-Unit8: redox reactions and electrochemistry,cA-P
+chemistry,A-Physical Chemistry-Unit9: chemical kinetics,cA-P
+chemistry,A-Physical Chemistry-Unit10: surface chemistry,cA-P
+chemistry,B-Inorganic Chemistry-Unit11: classification of elements and periodicity in properties,cB-I
+chemistry,B-Inorganic Chemistry-Unit12: general principles and processes of isolation of metals,cB-I
+chemistry,B-Inorganic Chemistry-Unit13: hydrogen,cB-I
+chemistry,B-Inorganic Chemistry-Unit14: s-block elements (alkali and alkaline earth metals),cB-I
+chemistry,B-Inorganic Chemistry-Unit15: p-block elements,cB-I
+chemistry,B-Inorganic Chemistry-Unit16: d- and f-block elements,cB-I
+chemistry,B-Inorganic Chemistry-Unit17: co-ordination compounds,cB-I
+chemistry,B-Inorganic Chemistry-Unit18: environmental chemistry,cB-I
+chemistry,C-Organic Chemistry-Unit19: purification and characterisation of organic compounds,cC-O
+chemistry,C-Organic Chemistry-Unit20: some basic principles of organic chemistry,cC-O
+chemistry,C-Organic Chemistry-Unit21: hydrocarbons,cC-O
+chemistry,C-Organic Chemistry-Unit22: organic compounds containing halogens,cC-O
+chemistry,C-Organic Chemistry-Unit23: organic compounds containing oxygen,cC-O
+chemistry,C-Organic Chemistry-Unit24: organic compounds containing nitrogen,cC-O
+chemistry,C-Organic Chemistry-Unit25: polymers,cC-O
+chemistry,C-Organic Chemistry-Unit26: biomolecules,cC-O
+chemistry,C-Organic Chemistry-Unit27: chemistry in everyday life,cC-O
+chemistry,C-Organic Chemistry-Unit28: principles related to practical chemistry,cC-O

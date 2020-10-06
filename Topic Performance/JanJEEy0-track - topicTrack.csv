@@ -1,0 +1,67 @@
+,,Ab,,,,,An,,,,
+topic,subject,dates,questionSources,questionCount,defectCount,minutes,dates,questionSources,questionCount,defectCount,minutes
+"Unit1: sets, relations and functions",maths,,,,,,Dec14;29,ace manual; eDucator,13,4,37
+Unit2: complex numbers and quadratic equations,maths,22/12/2019,mtg past yrs,19,10,40,Dec14;29,ace manual,26,8,72.45
+Unit3: matrices and determinants,maths,,,,1,,Dec13;Jan01,ace manual ,12,2,31.6
+Unit4: permutations and combinations,maths,22/12/2019,mtg past yrs,27,15,60,Dec14;29;29,ace manual; eDucator,21,10,52
+Unit5: mathematical induction,maths,,,,,,13/12/2019,NCERT,7,0,18
+Unit6: binomial theorem and its simple applications,maths,,,,,,14/12/2019,ace manual ,7,2,22
+Unit7: sequences and series,maths,,,,,,24/12/2019,ace manual ,5,1,13
+"Unit8: limit, continuity and differentiability",maths,22/12/2019,mtg past yrs,21,4,60,Dec14;29,ace manual,14,5,42
+Unit9: integral calculus,maths,22/12/2019,mtg past yrs,26,8,70,13/12/2019,NCERT,7,2,22
+Unit10: differential equations,maths,,,,,,Dec21;Jan02,ace manual .,12,2,36.2
+Unit11: co-ordinate geometry,maths,,,,,,"Dec14,30,31;Jan01",ace manual; ACE manual,34,12,86.17
+Unit12: three dimensional geometry,maths,,,,,,Dec22;31,ace manual;NCERT,14,5,40.5
+Unit13: vector algebra,maths,,,,,,Dec14;Jan01,"ace manual, relearn 2.5+.5h with 3D Geometry",26,5,77.8
+Unit14: statistics and probability,maths,,,,,,23/12/2019,ace manual ,14,3,41
+Unit15: trigonometry,maths,,,,,,24/12/2019 ,ace manual ,7,2,16
+Unit16: mathematical reasoning,maths,,,,,,13/12/2019,ace manual ,7,0,9
+A-Unit1: physics and measurement,physics,21/12/2019,mtg past yrs,37,8,75,Dec14;30,ace manual; ACE manual,13,3,20
+A-Unit2: kinematics,physics,,,,,,14/12/2019,ace manual ,7,1,12
+A-Unit3: laws of motion,physics,11/12/2019,NCERT,7,5,25,Dec13;Jan02,ace manual,12,2,31.25
+"A-Unit4: work, energy and power",physics,,,,,,22/12/2019,ace manual,7,2,20
+A-Unit5: rotational motion,physics,,,,,,Dec14;29,ace manual,14,4,32
+A-Unit6: gravitation,physics,,,,,,Dec14;Dec30;Jan01,ace manual ,26,8,87.1
+A-Unit7: properties of solids and liquids,physics,,,,,,Dec10;29,HCV; ACE Manual,18,6,54
+A-Unit8: thermodynamics,physics,,,,,,13/12/2019,ace manual ,7,2,19
+A-Unit9: kinetic theory of gases,physics,,,,,,14/12/2019,ace manual ,7,2,19
+A-Unit10: oscillations and waves,physics,,,,,,,ace manual ,7,1,16
+A-Unit11: electrostatics,physics,,,,,,15/12/2019 ,HCV,7,2,20
+A-Unit12: current electricity,physics,,,,,,"Dec14,15;Jan01",ace manual +hcv,19,5,52
+A-Unit13: magnetic effects of current and magnetism,physics,,,,,,13/12/2019,HCV,18,5,48
+A-Unit14: electromagnetic induction and alternating currents,physics,,,,,,Dec13;24,hcv,25,4,50
+A-Unit15: electromagnetic waves,physics,,,,,,Dec22;24,"ace manual, HCV",14,2,34
+A-Unit16: optics,physics,,,,,,Dec17;Jan01,ace manual ,12,2,33.25
+A-Unit17: dual nature of matter and radiation,physics,,,,,,14/12/2019,ace manual+hcv,13,3,41
+A-Unit18: atoms and nuclei,physics,,,,,,13/12/2019,ace manual +hcv,12,1,45
+A-Unit19: electronic devices,physics,,,,,,"Dec23,31;Jan01",ace manual;NCERT,19,3,32.58
+A-Unit20: communication systems,physics,,,,,,Dec13;31,ace manual; NCERT,28,14,58.25
+B-Unit21: experimental skills,physics,,,,,,Dec31;Jan02,emailed www link,12,2,21.75
+A-Physical Chemistry-Unit1: some basic concepts in chemistry,chemistry,,,,,,13/12/2019,ace manual ,7,1,19
+A-Physical Chemistry-Unit2: states of matter,chemistry,,,,,,13/12/2019,ace manual ,7,1,13
+A-Physical Chemistry-Unit3: atomic structure,chemistry,,,,,,16/12/2019,ace manual ,7,2,19
+A-Physical Chemistry-Unit4: chemical bonding and molecular structure,chemistry,,,,,,Dec14;Jan01,ace manual,12,2,29.4
+A-Physical Chemistry-Unit5: chemical thermodynamics,chemistry,,,,,,Dec13;29,ace manual; NCERT,14,4,30
+A-Physical Chemistry-Unit6: solutions,chemistry,,,,,,22/12/2019,ace manual ,7,1,18
+A-Physical Chemistry-Unit7: equilibrium,chemistry,,,,,,Dec24;Jan01,ace manual,12,1,41.2
+A-Physical Chemistry-Unit8: redox reactions and electrochemistry,chemistry,,,,,,11/12/2019,NCERT,5,1,14
+A-Physical Chemistry-Unit9: chemical kinetics,chemistry,,,,,,24/12/2019,ace manual,7,0,21
+A-Physical Chemistry-Unit10: surface chemistry,chemistry,21/12/2019,mtg past yrs,21,6,20,14/12/2019,ace manual,7,1,18
+B-Inorganic Chemistry-Unit11: classification of elements and periodicity in properties,chemistry,,,,,,24/12/2019,ace manual ,7,0,8
+B-Inorganic Chemistry-Unit12: general principles and processes of isolation of metals,chemistry,14/12/2019,Mtg past yrs,21,2,20,24/12/2019,ace manual ,7,1,10
+B-Inorganic Chemistry-Unit13: hydrogen,chemistry,22/12/2019,mtg past yrs,26,7,15,13/12/2019,ace manual ,7,2,6
+B-Inorganic Chemistry-Unit14: s-block elements (alkali and alkaline earth metals),chemistry,28/12/2019,mtg past yrs,38,7,15,Dec13;24,"ace manual, NCERT",14,4,16
+B-Inorganic Chemistry-Unit15: p-block elements,chemistry,12/12/2019,NCERT EXAMPLAR,13,5,12,Dec12;24;29,NCERT EXAMPLAR; NCERT; ACE Manual,28,7,30
+B-Inorganic Chemistry-Unit16: d- and f-block elements,chemistry,,,,,,13/12/2019,ace manual,7,2,10
+B-Inorganic Chemistry-Unit17: co-ordination compounds,chemistry,,,,,,Dec13;Jan02,ncert;ACE manual,12,0,19.23
+B-Inorganic Chemistry-Unit18: environmental chemistry,chemistry,,,,,,24/12/2019,NCERT ,7,1,11
+C-Organic Chemistry-Unit19: purification and characterisation of organic compounds,chemistry,,,,,,Dec14;30,ace manual;NCERT,14,3,22
+C-Organic Chemistry-Unit20: some basic principles of organic chemistry,chemistry,,,,,,13/12/2019,ace manual ,7,1,12
+C-Organic Chemistry-Unit21: hydrocarbons,chemistry,,,,,,11/12/2019,"NCERT, relearn 1.5h",15,3,43
+C-Organic Chemistry-Unit22: organic compounds containing halogens,chemistry,,,,,,"Dec23,29;Jan02",ncert,19,7,33.5
+C-Organic Chemistry-Unit23: organic compounds containing oxygen,chemistry,,,,,,"Dec10,29,29;Jan02",ncert,33,8,67.3
+C-Organic Chemistry-Unit24: organic compounds containing nitrogen,chemistry,,,,,,Dec11;25;30,ncert; NCERT; NCERT,21,7,35
+C-Organic Chemistry-Unit25: polymers,chemistry,15/12/2019,MTG past yrs,22,7,25,"Dec14,30;Jan02",ace manual; ACE manual;NCERT,25,11,54.65
+C-Organic Chemistry-Unit26: biomolecules,chemistry,,,,,,Dec13;Dec31;Jan01,ACE manual;NCERT,24,13,60.78
+C-Organic Chemistry-Unit27: chemistry in everyday life,chemistry,,,,,,Dec23;31,ace manual ,21,8,47.65
+C-Organic Chemistry-Unit28: principles related to practical chemistry,chemistry,,,,,,Dec31;,emailed www link,7,0,8.72
