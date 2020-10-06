@@ -6,3 +6,4 @@ So, those "projects" are being migrated as folders with the same <projectName\>,
 Following are the ReadMe pages for the erstwhile "projects" in the order in which they were created:
 - [JEEinsight](./JEEinsight/README.md)
 - [JEEknee](./JEEknee/README.md)
+- [JEEenlighten](./JEEenlighten/README.md)
