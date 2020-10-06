@@ -4,6 +4,7 @@ These were created as "Projects" at https://notebooks.azure.com/yadevinit/projec
 So, those "projects" are being migrated as folders with the same <projectName\>, beneath and within this repository. If some links are broken or some source/data files seem duplicated or worth extracting into a clean versioned set, do let me know so that it can be prioritized and planned for.
 
 Following are the ReadMe pages for the erstwhile "projects" with the more-recently-created ones listed first:
+- [JEEMainAdvanced](./JEE_ Main Advanced/README.md)
 - [indtwilight](./indtwilight/README.md)
 - [scienceStop](./scienceStop/README.md)
 - [JEEavg2max](./JEEavg2max/README.md)
