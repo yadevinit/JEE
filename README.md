@@ -4,10 +4,11 @@ These were created as "Projects" at https://notebooks.azure.com/yadevinit/projec
 So, those "projects" are being migrated as folders with the same <projectName\>, beneath and within this repository. If some links are broken or some source/data files seem duplicated or worth extracting into a clean versioned set, do let me know so that it can be prioritized and planned for.
 
 Following are the ReadMe pages for the erstwhile "projects" with the more-recently-created ones listed first:
-- [JEEMainAdvanced](./JEE_%20Main%20Advanced/README.md)
-- [indtwilight](./indtwilight/README.md)
-- [scienceStop](./scienceStop/README.md)
-- [JEEavg2max](./JEEavg2max/README.md)
-- [JEEenlighten](./JEEenlighten/README.md)
-- [JEEknee](./JEEknee/README.md)
-- [JEEinsight](./JEEinsight/README.md)
+1. [TopicPerformance](./Topic%20Performance/README.md)
+2. [JEEMainAdvanced](./JEE_%20Main%20Advanced/README.md)
+3. [indtwilight](./indtwilight/README.md)
+4. [scienceStop](./scienceStop/README.md)
+5. [JEEavg2max](./JEEavg2max/README.md)
+6. [JEEenlighten](./JEEenlighten/README.md)
+7. [JEEknee](./JEEknee/README.md)
+8. [JEEinsight](./JEEinsight/README.md)
