@@ -45,7 +45,7 @@ Earlier, [Project Occipital form] shared (a) that its case for action was initia
 - Salience:
    - Leaders have recognized national self reliance as essential, in the wake of a world of [COVID-19 pandemic]. Governments that some said were slow and obsessed with inputs (budgets and resources) are being tracked real-time on life-related outcomes all over the world. Anything really is possible! The author is beginning to see an existential threat for nations (beyond the all-pervading physical threat to individual lives) and resonates with a neighbouring leader's earlier lament regarding what past leaders did or did not do resulting in a nation lagging behind. The author has started to distinguish the background of citizenry and nationalism in which the rest of any educational system *and* the nation must thrive in and with a world of nations. Existential threats are useful to experience the real world: the way it is and the way it is not. It is an awakening ("rude" or otherwise), which we can and must turn into opportunity.
    - Self reliance (including for livelihoods) calls for reinforcing faith in education and common good. [MHRD webinar with students] preparing to compete via [JEE-Main] and other competitive exams is also a sign of engaging with the future these young citizens co-create.
-   - "... leveraging advanced technologies like Artificial Intelligence and Machine Learning ... Every student is unique and requires specific guidance to detect and overcome gaps in knowledge and test taking strategy. The test report on the NTA Mock Test App comes with a detailed breakdown of students' performance through which they can understand their personalised path to achieving better scores in their entrance examination" says [Union HRD Minister launches AI-powered mobile app for mock tests of JEE Main, NEET 2020, other competitive exams] (2020-May-19). https://www.getcetgo.in/ is another recent initiative that's welcome. Yet, there's a gap between these facilities and what's proposed here through this Project. And both those facilities are invited to adapt Projects at <https://notebooks.azure.com/yadevinit/projects/>.
+   - "... leveraging advanced technologies like Artificial Intelligence and Machine Learning ... Every student is unique and requires specific guidance to detect and overcome gaps in knowledge and test taking strategy. The test report on the NTA Mock Test App comes with a detailed breakdown of students' performance through which they can understand their personalised path to achieving better scores in their entrance examination" says [Union HRD Minister launches AI-powered mobile app for mock tests of JEE Main, NEET 2020, other competitive exams] (2020-May-19). https://www.getcetgo.in/ is another recent initiative that's welcome. Yet, there's a gap between these facilities and what's proposed here through this Project. And both those facilities are invited to adapt Projects at <https://github.com/yadevinit/JEE>.
 - Urgency: Within months, a present cohort of students appear for competitive exams. And [India's commitment for PISA 2021] can be worth scaling for the world, if we choose to act now.
 - Influence: May you as a stakeholder raise your influence on the matter by sharing this research viewpoint with friends and formal decision-making stakeholders while also adding your perspective. Let's acknowledge institutions that show and share both result realities and emulatable systematic methods for educational improvement of Learning Outcomes for the population served, not just individual achievement. Such acknowledgment can be in the style of [Baldrige Awards] (instituted as Presidential awards in the USA). What's called for is that Learning Outcomes are systematically improved for children moving through class 1 to 12. That's consistent with a Right to Education, enshrined in a Constitution. Aligning topics with Learning Outcomes offers a basis for continuous system improvement; without that, "endless spins and gyrations" of individual system components might continue without a fundamental harmonized trajectory of the system as a whole. Progressing both a shared vision of Learning Outcomes and their collective systemic execution from now into a future that matters will benefit from the following:
   - Including an understanding of topics into specified Learning Outcomes with a world-standard Controlled Vocabulary such as [UNESCO nomenclature for fields of science and technology].
@@ -356,7 +356,7 @@ Surface Chemistry; (b)` topic3` mapped QOSs which seem to be for 3D/other Geomet
       - `Wikify!` http://web.eecs.umich.edu/~mihalcea/papers/mihalcea.cikm07.pdf.
       - https://firebase.google.com/docs/ml-kit/android/recognize-text might offer options, but seems ground up.
 5. Ease the running and extending of this Project's code by others:
-   1. Its [TBD Colab Notebook](./eduCTeDcolab.ipynb) could be supported suitably (a) via Google Colab or Binder (maybe with a virtual-machine or Docker image that includes pre-installed packages) or (b) via a Github repository exported from Microsoft Azure Notebooks.
+   1. Its [TBD Colab Notebook](./eduCTeDcolab.ipynb) could be supported suitably via Google Colab or Binder (maybe with a virtual-machine or Docker image that includes pre-installed packages). It is now in a Github repository exported from discontinued-website Microsoft Azure Notebooks.
    2. For further reproducibility at any time in the future, as per [Reproducibility Checkpoint], consider `checkpoint` package and specifying `R` version and patch along with a date that ensures package versions installed are updated to the latest then.
    
    ```r
@@ -464,7 +464,7 @@ the recent controversies.
 
 
 [Project Occipital form]: <https://docs.google.com/document/d/1S0FB4TTPh6XZE14oMUHKr3IYdmqxsSaTy1DnT0MmzL0/edit?usp=sharing>
-[Project Occipital]: <https://notebooks.azure.com/yadevinit/projects/occipital>
+[Project Occipital]: <https://github.com/yadevinit/JEE/blob/main/Occipital/README.md>
 [JEE-Advanced]: <https://jeeadv.ac.in/>
 [Why Is Learning Fraction and Decimal Arithmetic So Difficult?]: <https://files.eric.ed.gov/fulltext/ED565462.pdf>
 [The Case for Dynamic Models of Learners' Ontologies in Physics]: <https://arxiv.org/ftp/arxiv/papers/0802/0802.4278.pdf>
@@ -487,7 +487,7 @@ the recent controversies.
 [ChemmineR: Cheminformatics Toolkit for R]: <https://www.bioconductor.org/packages/devel/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html>
 [Effect Displays in R for Generalised Linear Models]: <https://www.jstatsoft.org/article/view/v008i15/effect-displays-revised.pdf>
 [ChemPy]: <https://github.com/bjodah/chempy>
-[Project JEEinsight]: <https://notebooks.azure.com/yadevinit/projects/jeeinsight>
+[Project JEEinsight]: <https://github.com/yadevinit/JEE/blob/main/JEEinsight/README.md>
 [HTML-tag-removing ensemble]: <https://stackoverflow.com/questions/17227294/removing-html-tags-from-a-string-in-r>
 [ChemDoodle]: <https://web.chemdoodle.com/>
 [MathJax-mhChem]: <https://mhchem.github.io/MathJax-mhchem/>
@@ -514,6 +514,6 @@ the recent controversies.
 [Union HRD Minister launches AI-powered mobile app for mock tests of JEE Main, NEET 2020, other competitive exams]: <https://jeemain.nta.nic.in/WebInfo/Handler/FileHandler.ashx?i=File&ii=431&iii=Y>
 [NTA]: <https://www.nta.ac.in/>
 [Mahabharat]: <https://en.wikipedia.org/wiki/Mahabharat_(1988_TV_series)>
-[Project JEEknee]: <https://notebooks.azure.com/yadevinit/projects/JEEknee>
-[Project topicMap]: <https://notebooks.azure.com/yadevinit/projects/topicMap>
-[Project RampWalkAnyDifficulty]: <https://notebooks.azure.com/yadevinit/projects/rampwalkanydifficulty>
+[Project JEEknee]: <https://github.com/yadevinit/JEE/blob/main/JEEknee/README.md>
+[Project topicMap]: <https://github.com/yadevinit/JEE/blob/main/topicMap/README.md>
+[Project RampWalkAnyDifficulty]: <https://github.com/yadevinit/JEE/blob/main/RampWalkAnyDifficulty/README.md>
